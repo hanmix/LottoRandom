@@ -1,0 +1,2 @@
+# LottoRandom
+lotto_random
